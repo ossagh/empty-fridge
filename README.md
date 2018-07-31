@@ -1,2 +1,5 @@
 # empty-fridge
-Gonna try to fill it in with something. I'm starving
+
+Hi, lads!
+
+I've finished all the food I had. Need GitHub to fill my fridge in with delicious stuff.
